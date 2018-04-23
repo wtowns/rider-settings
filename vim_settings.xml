@@ -1,0 +1,127 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" timestamp="1524468416136">
+        <mark key="'" line="25" column="73" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" timestamp="1524526028221">
+        <mark key="'" line="21" column="12" />
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="62" />
+        <mark key="." line="42" column="62" />
+        <mark key="^" line="42" column="62" />
+      </file>
+      <file name="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/MovementSolver.cs" timestamp="1524526638532">
+        <mark key="'" line="69" column="20" />
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="42" />
+        <mark key="^" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1524526626716">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="11" column="17" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="40" column="20" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="45" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="38" column="29" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="26" column="20" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="13" column="42" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="23" column="20" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="25" column="73" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Demo/TileView.cs" />
+      <jump line="34" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="29" column="23" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="7" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="77" column="0" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="69" column="8" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="58" column="8" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="60" column="19" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="47" column="24" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="21" column="12" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/TileGrid.cs" />
+      <jump line="69" column="20" filename="$USER_HOME$/src/hbs-test/q3/Assets/HBS/Q3/Grid/MovementSolver.cs" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CQlwdWJsaWMgaW50IFRlc3RGdW5jKGludCBpKQoJCXsKCQkJcmV0dXJuIDA7CgkJfQoK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvLy8gPHN1bW1hcnk+CgkJLy8vIFRlc3QKCQkvLy8gPC9zdW1tYXJ5PgoJCS8vLyA8cGFyYW0gbmFtZT0iaSI+PC9wYXJhbT4KCQkvLy8gPHJldHVybnM+PC9yZXR1cm5zPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZ2V0IHsgcmV0dXJuIDA7IH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkvLy8gPHN1bW1hcnk+CgkJLy8vIAoJCS8vLyA8L3N1bW1hcnk+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>source ~/.ideavimrc</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxDb250YWluc1w+</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxDb250YWluc1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxDb250YWluc1w+</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>movem</entry>
+        <entry>public</entry>
+        <entry encoding="base64">XDxDb250YWluc1w+</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>qa</entry>
+        <entry>w</entry>
+        <entry>q</entry>
+        <entry>source ~/.ideavimrc</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
