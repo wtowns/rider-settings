@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Assembly-CSharp'" />
-    <option name="defaultScopeName" value="Project 'Assembly-CSharp'" />
-    <option name="SEARCH_SCOPE" value="Project 'Assembly-CSharp'" />
+    <option name="customScope" value="File '.../Assets/scripts/ui/dungeon_picker/InstanceListFetcher.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/scripts/ui/dungeon_picker/InstanceListFetcher.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/scripts/ui/dungeon_picker/InstanceListFetcher.cs'" />
   </component>
 </application>
