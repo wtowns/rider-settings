@@ -1,7 +1,14 @@
 <application>
-  <component name="CodeLensSettings" defaultAnchor="Right">
+  <component name="CodeLensSettings">
+    <anchor>
+      <map>
+        <entry key="Unity serialized field" value="Right" />
+      </map>
+    </anchor>
     <enabled>
-      <map />
+      <map>
+        <entry key="Unity serialized field" value="false" />
+      </map>
     </enabled>
   </component>
 </application>
