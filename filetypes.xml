@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="upload-symbols" type="PLAIN_TEXT" />
       <mapping ext="rsp" type="PLAIN_TEXT" />
       <removed_mapping ext="php4" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
