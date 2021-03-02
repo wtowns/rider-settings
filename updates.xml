@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="RD-193.6015.57" />
+    <option name="LAST_TIME_CHECKED" value="1612980933167" />
+    <pluginHosts>
+      <item value="https://plugins.jetbrains.com/plugins/eap/ideavim" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
