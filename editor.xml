@@ -1,6 +1,11 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="1000" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
@@ -9,6 +14,7 @@
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="TOOLTIPS_DELAY_MS" value="1000" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
 </application>
